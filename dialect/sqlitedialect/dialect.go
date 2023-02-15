@@ -6,10 +6,10 @@ import (
 	"fmt"
 
 	"github.com/uptrace/bun"
-	"github.com/uptrace/bun/dialect"
-	"github.com/uptrace/bun/dialect/feature"
-	"github.com/uptrace/bun/dialect/sqltype"
-	"github.com/uptrace/bun/schema"
+	"github.com/yaziine/bun/dialect"
+	"github.com/yaziine/bun/dialect/feature"
+	"github.com/yaziine/bun/dialect/sqltype"
+	"github.com/yaziine/bun/schema"
 )
 
 func init() {

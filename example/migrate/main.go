@@ -7,11 +7,11 @@ import (
 	"os"
 	"strings"
 
-	"github.com/uptrace/bun/dialect/sqlitedialect"
-	"github.com/uptrace/bun/driver/sqliteshim"
-	"github.com/uptrace/bun/example/migrate/migrations"
-	"github.com/uptrace/bun/extra/bundebug"
-	"github.com/uptrace/bun/migrate"
+	"github.com/yaziine/bun/dialect/sqlitedialect"
+	"github.com/yaziine/bun/driver/sqliteshim"
+	"github.com/yaziine/bun/example/migrate/migrations"
+	"github.com/yaziine/bun/extra/bundebug"
+	"github.com/yaziine/bun/migrate"
 
 	"github.com/urfave/cli/v2"
 

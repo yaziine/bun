@@ -11,7 +11,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/uptrace/bun/driver/pgdriver"
+	"github.com/yaziine/bun/driver/pgdriver"
 )
 
 func BenchmarkExec(b *testing.B) {

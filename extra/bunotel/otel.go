@@ -16,9 +16,9 @@ import (
 	"go.opentelemetry.io/otel/trace"
 
 	"github.com/uptrace/bun"
-	"github.com/uptrace/bun/dialect"
-	"github.com/uptrace/bun/schema"
 	"github.com/uptrace/opentelemetry-go-extra/otelsql"
+	"github.com/yaziine/bun/dialect"
+	"github.com/yaziine/bun/schema"
 )
 
 var (

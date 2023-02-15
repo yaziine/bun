@@ -8,7 +8,7 @@ import (
 	"time"
 	"unicode"
 
-	"github.com/uptrace/bun/schema"
+	"github.com/yaziine/bun/schema"
 )
 
 type QueryEvent struct {

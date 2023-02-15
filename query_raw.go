@@ -3,7 +3,7 @@ package bun
 import (
 	"context"
 
-	"github.com/uptrace/bun/schema"
+	"github.com/yaziine/bun/schema"
 )
 
 type RawQuery struct {

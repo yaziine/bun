@@ -17,7 +17,7 @@ import (
 	"gopkg.in/yaml.v3"
 
 	"github.com/uptrace/bun"
-	"github.com/uptrace/bun/schema"
+	"github.com/yaziine/bun/schema"
 )
 
 var (

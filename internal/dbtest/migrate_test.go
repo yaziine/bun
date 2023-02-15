@@ -7,7 +7,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 	"github.com/uptrace/bun"
-	"github.com/uptrace/bun/migrate"
+	"github.com/yaziine/bun/migrate"
 )
 
 func TestMigrate(t *testing.T) {

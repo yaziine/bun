@@ -5,10 +5,10 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/uptrace/bun/dialect"
-	"github.com/uptrace/bun/dialect/feature"
-	"github.com/uptrace/bun/internal"
-	"github.com/uptrace/bun/internal/parser"
+	"github.com/yaziine/bun/dialect"
+	"github.com/yaziine/bun/dialect/feature"
+	"github.com/yaziine/bun/internal"
+	"github.com/yaziine/bun/internal/parser"
 )
 
 var nopFormatter = Formatter{

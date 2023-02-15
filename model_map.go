@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"sort"
 
-	"github.com/uptrace/bun/schema"
+	"github.com/yaziine/bun/schema"
 )
 
 type mapModel struct {

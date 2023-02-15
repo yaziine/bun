@@ -4,8 +4,8 @@ import (
 	"context"
 	"database/sql"
 
-	"github.com/uptrace/bun/internal"
-	"github.com/uptrace/bun/schema"
+	"github.com/yaziine/bun/internal"
+	"github.com/yaziine/bun/schema"
 )
 
 type DropTableQuery struct {

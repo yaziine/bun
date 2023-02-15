@@ -7,8 +7,8 @@ import (
 
 	_ "github.com/denisenkom/go-mssqldb"
 	"github.com/uptrace/bun"
-	"github.com/uptrace/bun/dialect/mssqldialect"
-	"github.com/uptrace/bun/extra/bundebug"
+	"github.com/yaziine/bun/dialect/mssqldialect"
+	"github.com/yaziine/bun/extra/bundebug"
 )
 
 func main() {

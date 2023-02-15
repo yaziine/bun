@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/uptrace/bun/dialect"
+	"github.com/yaziine/bun/dialect"
 )
 
 func Append(fmter Formatter, b []byte, v interface{}) []byte {

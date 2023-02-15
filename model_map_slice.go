@@ -6,8 +6,8 @@ import (
 	"errors"
 	"sort"
 
-	"github.com/uptrace/bun/dialect/feature"
-	"github.com/uptrace/bun/schema"
+	"github.com/yaziine/bun/dialect/feature"
+	"github.com/yaziine/bun/schema"
 )
 
 type mapSliceModel struct {

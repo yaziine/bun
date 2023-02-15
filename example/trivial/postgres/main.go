@@ -6,9 +6,9 @@ import (
 	"fmt"
 
 	"github.com/uptrace/bun"
-	"github.com/uptrace/bun/dialect/pgdialect"
-	"github.com/uptrace/bun/driver/pgdriver"
-	"github.com/uptrace/bun/extra/bundebug"
+	"github.com/yaziine/bun/dialect/pgdialect"
+	"github.com/yaziine/bun/driver/pgdriver"
+	"github.com/yaziine/bun/extra/bundebug"
 )
 
 func main() {

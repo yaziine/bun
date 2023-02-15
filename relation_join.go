@@ -5,9 +5,9 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/uptrace/bun/dialect/feature"
-	"github.com/uptrace/bun/internal"
-	"github.com/uptrace/bun/schema"
+	"github.com/yaziine/bun/dialect/feature"
+	"github.com/yaziine/bun/internal"
+	"github.com/yaziine/bun/schema"
 )
 
 type relationJoin struct {

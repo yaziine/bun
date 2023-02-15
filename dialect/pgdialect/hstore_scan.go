@@ -5,7 +5,7 @@ import (
 	"io"
 	"reflect"
 
-	"github.com/uptrace/bun/schema"
+	"github.com/yaziine/bun/schema"
 )
 
 func hstoreScanner(typ reflect.Type) schema.ScannerFunc {
